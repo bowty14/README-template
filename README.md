@@ -6,7 +6,7 @@
 
 ## Description
 
-Tell your audience what your app does.
+this is a template for a readme.md file
 
 ## Specifications
 
